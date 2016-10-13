@@ -1,0 +1,48 @@
+#EXTM3U
+ 
+#EXTINF:-1, RTP 1 
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/633.m3u8
+#EXTINF:-1, RTP 2
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/651.m3u8
+#EXTINF:-1, SIC
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/21.m3u8
+#EXTINF:-1, TVI
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/9.m3u8
+#EXTINF:-1, CMTV
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/635.m3u8
+#EXTINF:-1, TVI REALITY
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/638.m3u8
+#EXTINF:-1, SPORT.TV 1
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/632.m3u8
+#EXTINF:-1, SOPRT.TV 2
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/645.m3u8
+#EXTINF:-1, BTV
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/17.m3u8
+#EXTINF:-1, TVC 1
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/636.m3u8
+#EXTINF:-1, TVC 2
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/637.m3u8
+#EXTINF:-1, AXN
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/640.m3u8
+#EXTINF:-1, FOX
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/639.m3u8
+#EXTINF:-1, FOX CRIME
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/647.m3u8
+#EXTINF:-1, SYFY
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/646.m3u8
+#EXTINF:-1, TLC
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/653.m3u8
+#EXTINF:-1, CBS REALITY
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/641.m3u8
+#EXTINF:-1, NAT GEO WILD
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/634.m3u8
+#EXTINF:-1, ODISSEIA
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/643.m3u8
+#EXTINF:-1, HISTORIA
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/644.m3u8
+#EXTINF:-1, TV Record
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/648.m3u8
+#EXTINF:-1, Afro Music
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/652.m3u8
+#EXTINF:-1, TEST
+http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/1.m3u8
